@@ -1,6 +1,6 @@
 {
   "name": "github-commits-since-tag",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Get commits since a tag with GitHub API",
   "main": "lib/index.js",
   "engines": {
