@@ -11,7 +11,7 @@ git log <yourlasttag>..HEAD
 
 ## Why?
 
-When there are many small (possibly inter-dependent) repos, we may forgot to tag and publish the underlying repos when releasing the main repo.  
+When there are many small (possibly inter-dependent) repos, we may forgot to tag and publish the repos after commits and PR.  
 This library list the commits since the last tagging. We can then evaluate the commits and determine whether we should create a new release for the repo.
 
 I assume:  
