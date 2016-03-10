@@ -27,7 +27,7 @@ npm i github-commits-since-tag
 
 ## Usage
 
-GitHub imposes a per IP rate limit on the calling of GitHub API, you need a [Personal access tokens](https://github.com/settings/tokens) to enjoy higher rates. A token with no specific role should suffice.
+GitHub imposes a [per IP rate limit](https://developer.github.com/v3/#rate-limiting) on GitHub API requests, you need a [Personal access tokens](https://github.com/settings/tokens) to enjoy higher rates. A token with no specific role should suffice.
 
 ```js
 // instance creation
