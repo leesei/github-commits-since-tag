@@ -58,5 +58,6 @@ See [visionmedia/debug](https://github.com/visionmedia/debug/) for details.
 ### Reference
 
 [GitHub API v3 | GitHub Developer Guide](https://developer.github.com/v3/)
+
 [mikeal/contribution-reports: Tools for running contribution reports on GitHub repos and orgs.](https://github.com/mikeal/contribution-reports)
 
